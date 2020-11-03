@@ -12,4 +12,5 @@ void main()
 	r1 = 1 + x / 2 + y / 4;
 	r2 = pow((abs(x - 1) - pow(y, 1 / 3)), 1 / 2);
 	cout <<"example is equal to: " << r2 / r1;
+	cout<<" changes"<<endl;
 }
